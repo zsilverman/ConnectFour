@@ -8,10 +8,10 @@ javac *.java
 
 #### To play against:
 ```
-java -p1 MonteCarloAI
+java Main -p1 MonteCarloAI
 ```
 
 #### To watch play:
 ```
-java -p1 MonteCarloAI -p2 alphabeta
+java Main -p1 MonteCarloAI -p2 alphabeta
 ```
